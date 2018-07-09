@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Aula xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Alumnos>
+    <Personas>
+      <Nombre>Juan</Nombre>
+      <Apellido>Carlos</Apellido>
+    </Personas>
+    <Personas>
+      <Nombre>Juan</Nombre>
+      <Apellido>Carlos</Apellido>
+    </Personas>
+    <Personas>
+      <Nombre>Juan</Nombre>
+      <Apellido>Carlos</Apellido>
+    </Personas>
+    <Personas>
+      <Nombre>Natalia</Nombre>
+      <Apellido>Natalia</Apellido>
+    </Personas>
+  </Alumnos>
+</Aula>

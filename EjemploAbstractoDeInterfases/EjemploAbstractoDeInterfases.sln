@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemploAbstractoDeInterfases", "EjemploAbstractoDeInterfases\EjemploAbstractoDeInterfases.csproj", "{F99FC44D-0435-4A0C-AAE9-E13FCDE98054}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{5FAD6A0F-F918-4A90-B27A-F0EB2D0C3EB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F99FC44D-0435-4A0C-AAE9-E13FCDE98054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F99FC44D-0435-4A0C-AAE9-E13FCDE98054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F99FC44D-0435-4A0C-AAE9-E13FCDE98054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F99FC44D-0435-4A0C-AAE9-E13FCDE98054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FAD6A0F-F918-4A90-B27A-F0EB2D0C3EB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FAD6A0F-F918-4A90-B27A-F0EB2D0C3EB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FAD6A0F-F918-4A90-B27A-F0EB2D0C3EB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FAD6A0F-F918-4A90-B27A-F0EB2D0C3EB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

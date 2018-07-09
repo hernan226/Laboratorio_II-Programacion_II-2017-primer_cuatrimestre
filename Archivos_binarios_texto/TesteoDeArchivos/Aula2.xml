@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Aula xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Alumnos>
+    <Personas xsi:type="Profesor">
+      <Dni>12345</Dni>
+      <Nombre>Juan</Nombre>
+      <Apellido>Diaz</Apellido>
+      <Titulo>Licenciado en boludologia</Titulo>
+    </Personas>
+    <Personas xsi:type="Alumno">
+      <Dni>12345</Dni>
+      <Nombre>Juan</Nombre>
+      <Apellido>Diaz</Apellido>
+      <Legajo>1</Legajo>
+    </Personas>
+    <Personas xsi:type="Alumno">
+      <Dni>12345</Dni>
+      <Nombre>Juan</Nombre>
+      <Apellido>Diaz</Apellido>
+      <Legajo>1</Legajo>
+    </Personas>
+    <Personas xsi:type="Alumno">
+      <Dni>12345</Dni>
+      <Nombre>Juan</Nombre>
+      <Apellido>Diaz</Apellido>
+      <Legajo>1</Legajo>
+    </Personas>
+    <Personas xsi:type="Alumno">
+      <Dni>12345</Dni>
+      <Nombre>Juan</Nombre>
+      <Apellido>Diaz</Apellido>
+      <Legajo>1</Legajo>
+    </Personas>
+  </Alumnos>
+</Aula>

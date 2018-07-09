@@ -1,0 +1,3 @@
+Juan,Carlos,40006220,Buenos Aires
+Pedro,Escorza,33344411,Cordoba
+Jorge,Lopez,23165463,Chubur
